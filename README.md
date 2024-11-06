@@ -16,7 +16,7 @@ Welcome to **Sprunki Retake Game**, a fan-made adaptation of *Incredibox*, where
 
 ## Introduction
 
-**Sprunki Retake Game** brings an extra layer of excitement to the classic Incredibox experience by introducing original characters, sounds, and mods. Whether you’re an *Incredibox* fan or new to the game, Sprunki offers hours of musical fun and creativity, and it’s entirely free to play online. [Visit here](https://sprunki-phase.online/sprunki-retake) to play or explore other modes on [this link](https://sprunkiretake.online/).
+**Sprunki Retake Game** brings an extra layer of excitement to the classic Incredibox experience by introducing original characters, sounds, and mods. Whether you’re an *Incredibox* fan or new to the game, Sprunki offers hours of musical fun and creativity, and it’s entirely free to play online. [Sprunki Retake](https://sprunkiretake.online/) to play or explore other modes on [Sprunki Phase](https://sprunki-phase.online/sprunki-retake).
 
 ---
 
@@ -40,8 +40,8 @@ The Sprunki Retake Game is entirely browser-based. To get started, follow these 
 
 1. **Open Browser**: Use a modern browser like Chrome, Firefox, or Safari.
 2. **Visit the Website**:
-   - [Sprunki Phase Online](https://sprunki-phase.online/sprunki-retake)
-   - [Sprunki Retake Online](https://sprunkiretake.online/)
+   - [Sprunki Phase](https://sprunki-phase.online/sprunki-retake)
+   - [Sprunki Retake](https://sprunkiretake.online/)
 3. **Play**: Select "Play" and dive into the Sprunki universe.
 
 ---
@@ -94,7 +94,7 @@ Explore fan-favorite modes and mods for a customized experience:
 
 Explore the official sites for more modes and updates:
 
-- [Sprunki Phase Online](https://sprunki-phase.online/sprunki-retake)
-- [Sprunki Retake Online](https://sprunkiretake.online/)
+- [Sprunki Phase](https://sprunki-phase.online/sprunki-retake)
+- [Sprunki Retake](https://sprunkiretake.online/)
 
 Happy composing and enjoy your musical journey in the world of Sprunki!
